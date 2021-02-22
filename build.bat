@@ -1,0 +1,1 @@
+gcc -s -O0 -g3 -o run.exe main.c
